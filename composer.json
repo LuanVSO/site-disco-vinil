@@ -1,4 +1,5 @@
 {
+	"$schema": "https://getcomposer.org/schema.json",
 	"name": "discomania/site",
 	"description": "site de compra e venda de vinis",
 	"type": "project",
