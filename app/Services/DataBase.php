@@ -7,8 +7,8 @@ use PDOException;
 
 class DataBase {
 	public $servername = "localhost";
-	public $username = "root";
-	public $password = "";
+	public $username = "disco-site";
+	public $password = "disco-vinil";
 	public $name = "disco";
 	public function getConnection() {
 		try {
