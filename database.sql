@@ -56,7 +56,7 @@ CREATE TABLE `produto` (
 --
 
 INSERT INTO `produto` (`imagem`, `nome`, `banda`, `valor`, `quantidade`, `id`) VALUES
-('dark_side.png', 'The Dark Side of The Moon', 'Pink Floyd', '200.00', 5, 1)
+('dark_side.png', 'The Dark Side of The Moon', 'Pink Floyd', '200.00', 5, 1);
 
 --
 -- Índices para tabelas despejadas
